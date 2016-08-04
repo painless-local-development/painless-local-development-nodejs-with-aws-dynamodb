@@ -1,0 +1,19 @@
+from: node:6.2.0
+services:
+  - peopleperhour/dynamodb:latest:
+      name: dynamodb
+      persist: false
+      expose:
+        - 8000:8000
+expose:
+  - 2000:2000
+env:
+  - LOCAL_HOME=${HOME}
+quiet: false
+forward: true
+tasks:
+  env: env
+  install: npm install
+  test: npm test
+  start: npm start
+  ci: .test .start
