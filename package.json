@@ -1,0 +1,32 @@
+{
+  "name": "painless-local-development-nodejs-with-aws-dynamodb",
+  "version": "1.0.0",
+  "description": "A minimalistic repo to show how to develop locally with dynamoDB",
+  "main": "index.js",
+  "dependencies": {
+    "joi": "^9.0.4",
+    "vogels": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pelirrojo@github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb.git"
+  },
+  "keywords": [
+    "node.js",
+    "Docker",
+    "DevLab",
+    "Painless",
+    "Local",
+    "Development"
+  ],
+  "author": "Pelirrojo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb/issues"
+  },
+  "homepage": "https://github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb#readme"
+}
