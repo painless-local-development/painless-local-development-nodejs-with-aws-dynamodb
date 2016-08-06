@@ -10,26 +10,26 @@ A minimalistic repo to show how to develop locally with dynamoDB.
 
 ## Introduction and Objetives
 
-This repo it's intendend to show how easy is use [[Node.js](https://nodejs.org) & [AWS DynamoDB](https://aws.amazon.com/es/documentation/dynamodb/) to [Painless Local Development](https://github.com/painless-local-development).
+This repo it's intendend to show how easy is use [Node.js](https://nodejs.org) & [AWS DynamoDB](https://aws.amazon.com/es/documentation/dynamodb/) to [Painless Local Development](https://github.com/painless-local-development).
 
 To achieve this objetive we're going to propose some tools: [Docker](https://www.docker.com) & [DevLab](https://github.com/TechnologyAdvice/DevLab).
 
 ## Installation and Setup
 
-* Install [Docker](https://www.docker.com)
-* Install [Node.js](https://nodejs.org) with [NVM](https://github.com/creationix/nvm).
-* Install Local dependencies
+* Install [Docker](https://www.docker.com) :whale:
+* Install [Node.js](https://nodejs.org) with [NVM](https://github.com/creationix/nvm)
+* Install Local dependencies:
 ```
 npm install
 ```
 
-* Install [DevLab](https://github.com/TechnologyAdvice/DevLab) as global dependency.
+* Install [DevLab](https://github.com/TechnologyAdvice/DevLab) as global dependency:
 ```
 npm install devlab -g
 ```
 **Note: DevLab requires Node v.4+ to run.** 
 
-* Run 
+* Run and watch ouput:
 ```
 devlab start
 ```
