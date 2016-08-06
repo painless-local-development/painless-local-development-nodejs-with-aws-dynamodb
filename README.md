@@ -4,10 +4,20 @@
 # painless-local-development-nodejs-with-aws-dynamodb
 A minimalistic repo to show how to develop locally with dynamoDB.
 
-## Installation and set-up
+* [Introduction and objetives](#introduction-and-objetives)
+* [Installation and Setup](#installation-and-setup)
+* [Roadmap](#roadmap)
 
-* Install Docker 
-* Install Node.js with [NVM](https://github.com/creationix/nvm).
+## Introduction and Objetives
+
+This repo it's intendend to show how easy is use [[Node.js](https://nodejs.org) & [AWS DynamoDB](https://aws.amazon.com/es/documentation/dynamodb/) to [Painless Local Development](https://github.com/painless-local-development).
+
+To achieve this objetive we're going to propose some tools: [Docker](https://www.docker.com) & [DevLab](https://github.com/TechnologyAdvice/DevLab).
+
+## Installation and Setup
+
+* Install [Docker](https://www.docker.com)
+* Install [Node.js](https://nodejs.org) with [NVM](https://github.com/creationix/nvm).
 * Install Local dependencies
 ```
 npm install
@@ -24,14 +34,11 @@ npm install devlab -g
 devlab start
 ```
 
-## FAQ
+## Roadmap
+- [x] Improving Readme
+- [ ] Add some tests
+- [ ] Turn into a REST Server permanently on to test through DynamoDB=http://localhost:8000/shell & server=http://localhost:8080
+- [ ] Add more badges like CodeClimate, Dependencies, ...
 
-* Why *devLab* instead *docker-compose*?
-
-* Why *devLab* globally?
-
-* Why *Node.js*?
-
-
-Feel to contribute throught PR or Issues.
-
+----------------------------------------------
+Feel free to contribute using [PR](https://help.github.com/articles/using-pull-requests/) or [Issues](https://github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb/issues).
