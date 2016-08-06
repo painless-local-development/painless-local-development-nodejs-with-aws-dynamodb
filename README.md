@@ -38,7 +38,7 @@ devlab start
 - [x] Improving Readme
 - [ ] Add some tests
 - [ ] Turn into a REST Server permanently on to test through DynamoDB=http://localhost:8000/shell & server=http://localhost:8080
-- [ ] Add more badges like CodeClimate, Dependencies, ...
+- [ ] Gain more [badges](http://shields.io/) like CodeClimate, Dependencies, ...
 
 ----------------------------------------------
 Feel free to contribute using [PR](https://help.github.com/articles/using-pull-requests/) or [Issues](https://github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb/issues).
