@@ -1,5 +1,6 @@
-[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg?maxAge=2592000)](LICENSE)
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg?maxAge=2592000)](LICENSE) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) 
+[![David](https://david-dm.org/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb.svg)](https://david-dm.org) 
 
 # painless-local-development-nodejs-with-aws-dynamodb
 A minimalistic repo to show how to develop locally with dynamoDB.
