@@ -1,4 +1,4 @@
-from: node:6.2.0
+from: mhart/alpine-node:6.2
 services:
   - peopleperhour/dynamodb:latest:
       name: dynamodb
