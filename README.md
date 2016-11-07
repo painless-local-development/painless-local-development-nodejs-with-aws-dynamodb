@@ -43,3 +43,6 @@ devlab start
 
 ----------------------------------------------
 Feel free to contribute using [PR](https://help.github.com/articles/using-pull-requests/) or [Issues](https://github.com/painless-local-development/painless-local-development-nodejs-with-aws-dynamodb/issues).
+
+
+Another PoC from [Painless Local Development](https://github.com/painless-local-development) | 2016
