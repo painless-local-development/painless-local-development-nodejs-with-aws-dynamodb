@@ -4,7 +4,7 @@
   "description": "A minimalistic repo to show how to develop locally with dynamoDB",
   "main": "index.js",
   "dependencies": {
-    "joi": "^9.0.4",
+    "joi": "^18.2.9",
     "vogels": "^2.2.0"
   },
   "devDependencies": {},
